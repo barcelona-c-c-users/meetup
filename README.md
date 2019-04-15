@@ -1,5 +1,5 @@
 # C++ Programmer Meetup.
-This repository contains all the PDFs during the presentation of the C++ Progrmmer Barcelona Meetup.
+This repository contains presentations PDFs of the Barcelona C++ Programmer Meetup.
 ## Naming Strategy
 This repository uses a folder strategy and file name:
 dateofthemeetup/presenter_name-titleofthesession.pdf
