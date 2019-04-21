@@ -2,7 +2,7 @@
 This repository contains presentations PDFs of the Barcelona C++ Programmer Meetup.
 ## Naming Strategy
 This repository uses a folder strategy and file name dateofthemeetup/presentername_titleofthesession.pdf
-###Example
+### Example
 20170109/GiorgioZoppi_CPP11Concurrency.pdf
 
 
